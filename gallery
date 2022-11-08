@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="R&S.css">
+    <link rel="icon" href="images/love.png">
+    <title>roozeb.com</title>
+<style>
+    body{
+        background-color: pink;
+        font-family: 'Noto Serif Telugu', serif;
+        font-size: 25px;
+        color: purple;
+    }
+</style>
+</head>
+
+<body>
+    <h1>Gallery</h1>
+    <h2>Moments</h2>
+    <h2>Dholki</h2>
+    <h2>Mehndi</h2>
+    <h2>Wedding-day</h2>
+    <h2>Private</h2>
+
+</body>
+
+</html>
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="R&S.css">
+    <link rel="icon" href="images/love.png">
+    <title>roozeb.com</title>>
+
+
+    <style>
+        body{
+            background-color: palevioletred;
+        }
+        .moments-images{
+            width: 50%;
+                
+            }
+    </style>
+</head>
+<body>
+    <h1>Moments</h1>
+    <img class="moments-images" src="images/mem2.jpg" alt="">
+    <img class="moments-images" src="images/pic.PNG" alt="">
+    <img class="moments-images" src="images/a.jpeg" alt="">
+    <img class="moments-images" src="images/b.jpeg" alt="">
+    <img class="moments-images" src="images/c.jpeg" alt="">
+    <img class="moments-images" src="images/mem18.jpg" alt="">
+    <img class="moments-images" src="images/mem19.jpg" alt="">
+    <img class="moments-images" src="images/mem15.jpg" alt="">
+    <img class="moments-images" src="images/s.jpeg" alt="">
+    <img class="moments-images" src="images/mem21.jpg" alt="">
+    <img class="moments-images" src="images/mem9.jpg" alt="">
+    <img class="moments-images" src="images/mem16.jpg" alt="">
+    <img class="moments-images" src="images/mem10.jpg" alt="">
+    <img class="moments-images" src="images/mem11.jpg" alt="">
+    <img class="moments-images" src="images/fav2.JPG" alt="">
+    <img class="moments-images" src="images/mem14.jpg" alt="">
+    <img class="moments-images" src="images/mem12.jpg" alt="">
+    <img class="moments-images" src="images/mem13.jpg" alt="">
+
+</body>
+</html>
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="R&S.css">
+    <link rel="icon" href="images/love.png">
+    <title>Dholki</title>
+
+    <style>
+        body{
+
+        }
+    </style>
+</head>
+<body>
+    <h2>Dholki</h2>
+    <img src="images/aa.jpeg" alt="Dholkipic1">
+</body>
+</html>
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mehndi</title>
+</head>
+<body>
+    <h2>Mehndi</h2>
+    <img src="images/A.JPG" alt="MehndiIMG1">
+    <img src="images/B.JPG" alt="MehndiIMG2">
+    <img src="images/C.JPG" alt="MehndiIMG3">
+    <img src="images/D.JPG" alt="MehndiIMG4">
+    <img src="images/E.JPG" alt="MehndiIMG5">
+    <img src="images/F.JPG" alt="MehndiIMG6">
+
+</body>
+</html>
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h2>Wedding-day</h2>
+</body>
+</html>
