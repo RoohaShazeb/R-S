@@ -1,0 +1,80 @@
+body 
+{
+    margin: 0;
+    text-align: center;
+}
+
+h1{
+    font-family: 'WindSong', cursive;
+    text-align: center;
+    font-size: 10rem;
+    color: EA047E;
+    margin: 0;
+    font-weight: normal;
+}
+
+h2{
+    font-family:'Noto Serif Telugu', serif;
+    text-align: center;
+    color:  F65A83;
+    padding-top: 100px;
+
+}
+
+h3{
+    font-family:'Noto Serif Telugu', serif;
+    text-align: center;
+    color: F65A83;
+    
+}
+
+hr{
+    border: dotted;
+    border-bottom: none;
+    width: 4%;
+    color:  grey;
+}
+.btn {
+    background: #d934d3;
+    background-image: -webkit-linear-gradient(top, #d934d3, #b82b7b);
+    background-image: -moz-linear-gradient(top, #d934d3, #b82b7b);
+    background-image: -ms-linear-gradient(top, #d934d3, #b82b7b);
+    background-image: -o-linear-gradient(top, #d934d3, #b82b7b);
+    background-image: linear-gradient(to bottom, #d934d3, #b82b7b);
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    font-family: Georgia;
+    color: #1f0d1f;
+    font-size: 18px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #d63cfc;
+    background-image: -webkit-linear-gradient(top, #d63cfc, #d934c0);
+    background-image: -moz-linear-gradient(top, #d63cfc, #d934c0);
+    background-image: -ms-linear-gradient(top, #d63cfc, #d934c0);
+    background-image: -o-linear-gradient(top, #d63cfc, #d934c0);
+    background-image: linear-gradient(to bottom, #d63cfc, #d934c0);
+    text-decoration: none;
+  }
+.top{
+    background-color: FFD1D1;
+    position: relative;
+    padding-top: 100px;
+    padding-bottom: 300px;
+}
+
+.bottom{
+    
+   width: 50%;
+   margin: 100px auto 100px auto;
+   line-height: 2;
+}
+
+.images{
+    width: 25%;
+    text-align: center;
+}
